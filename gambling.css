@@ -1,0 +1,33 @@
+body{
+    font-family: 'Eater',cursive;
+    background-color: #0b143d;
+    color:#fdfffc;
+    text-align: center;
+    margin:auto;
+    border: 40px solid #2ec486;
+    padding-bottom: 1%;
+
+}
+p{
+    font-size: 25px;
+    padding-top: 1%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+h3{
+    margin-top:30px;
+    
+}
+form{
+   font-size: 0.85rem;
+}
+#sub{
+    
+    width:200px;
+    height:5rem;
+    background-color: darkgoldenrod;
+    border-radius: 10%;
+    font-size: 2rem;
+    border:3px solid rgb(156, 12, 12);
+
+}
